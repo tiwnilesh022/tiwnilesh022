@@ -9,4 +9,4 @@
 - 😄 **Pronouns:** ... **He/Him**
 - ⚡ **Fun fact:** ... **Student at GBU**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anjal05&show_icons=true&text_color=daf7dc&bg_color=151515" alt="tiwnilesh022" /></p> 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tiwnilesh022&show_icons=true&text_color=daf7dc&bg_color=151515" alt="tiwnilesh022" /></p> 
